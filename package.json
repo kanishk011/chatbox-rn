@@ -1,11 +1,11 @@
 {
     "name": "chatbox-rn",
-    "version": "1.0.0",
+    "version": "0.0.1",
     "description": "A customizable chat screen component for React Native.",
     "main": "index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/kanishk011/chatbox-rn.git"
+        "url": "git+https://github.com/kanishk011/chatbox-rn.git"
     },
     "keywords": [
         "react-native",
@@ -19,5 +19,12 @@
     "dependencies": {
         "react": "19.0.0",
         "react-native": "0.78.1"
-    }
+    },
+    "scripts": {
+        "test": "Initial commit"
+    },
+    "bugs": {
+        "url": "https://github.com/kanishk011/chatbox-rn/issues"
+    },
+    "homepage": "https://github.com/kanishk011/chatbox-rn#readme"
 }
